@@ -1,5 +1,5 @@
 # docker build -t column_ubuntu_test . 
-FROM golang:1.18-bullseye
+FROM golang:1.21-bullseye
 
 WORKDIR /usr/
 
